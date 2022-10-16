@@ -9,3 +9,4 @@ console.log(typeof email)
 console.log(typeof profissao)
 console.log(typeof idade)
 console.log(typeof lugarquevocesonhaumdiaconhecer)
+
